@@ -1,15 +1,13 @@
 # Biniboard
 Biniboard - NodeMCU V3 (Lolin) breakout board
 
-
-::::::: company infomation :::::::::: 
+# Company
 openSupportFactory / 오픈서포트팩토리
-      www.opensupport.xyz
+website: www.opensupport.xyz
 facebook: https://www.facebook.com/opensupport.xyz
-:::::::::::::::::::::::::::::::::::::
 
 
-#Referals:
+# Referals
 1. NodeMCU devkit v1.0:
    => https://github.com/nodemcu/nodemcu-devkit-v1.0
 
