@@ -4,13 +4,13 @@ const char* ssid = "GCAMP0824G"; //your WiFi Name
 const char* password = "12345678a";  //Your Wifi Password
 
 int ledPin = 2; //gpio2 on esp8266 module's built-in led.
-//int ledPin = D3;
-//int ledPin = 0;
-//int ledPin = LED_BUILTIN;
+// NodeMCU devkit1.0 V2
 //D3: gpio0: flash button
 //D0: gpio16: user button
-//$led1 = BUILTIN_LED;  //D0, gpio16, BUILTIN_LED: OnBoard LED
-//$led2 = 2;    //Pin 5 D4/gpio2 Internal LED for LoLin V3
+
+// NodeMCU devkit1.0 V3 Lolin
+//$led1 = 16;   //D0, gpio16, BUILTIN_LED: OnBoard LED
+//$led2 = 2;    //D4, gpio2 Internal LED for LoLin V3
 
 WiFiServer server(80);
 void setup() {
