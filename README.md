@@ -6,6 +6,8 @@
 
 This project is about the development of "biniboard", a breakout board. It serves as a breakout expansion board specifically designed for the **NodeMCU V3 Lolin board**. The primary purpose of biniboard is to provide an additional 5V power supply, complementing the 3.3V power already available on the Lolin board.
 
+The name 'bini' in 'biniboard' is derived from the nicknames of the developer's children, Subin and Seongbin.
+
 ## Related Arduino (.ino) File
 
 An example Arduino sketch (`.ino` file) related to the NodeMCU V3 Lolin board can be found at `example-source/NodeMCU-V3_Lolin/NodeMCU-V3_Lolin.ino`. This file demonstrates basic usage or functionality in conjunction with the biniboard.

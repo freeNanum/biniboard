@@ -6,6 +6,8 @@
 
 이 프로젝트는 브레이크아웃 보드인 "biniboard"의 개발에 관한 것입니다. 기존의 **NodeMCU V3 Lolin 보드**를 위해 특별히 설계된 브레이크아웃 확장 보드 역할을 합니다. biniboard의 주요 목적은 Lolin 보드에서 이미 사용 가능한 3.3V 전원에 추가로 5V 전원을 제공하는 것입니다.
 
+biniboard의 'bini'라는 이름은 개발자의 자녀인 수빈(Subin)과 성빈(Seongbin)의 애칭에서 따왔습니다.
+
 ## 관련 아두이노(.ino) 파일
 
 NodeMCU V3 Lolin 보드와 관련된 예제 아두이노 스케치(.ino 파일)는 `example-source/NodeMCU-V3_Lolin/NodeMCU-V3_Lolin.ino`에서 찾을 수 있습니다. 이 파일은 biniboard와 함께 기본적인 사용법 또는 기능을 보여줍니다.
