@@ -33,3 +33,7 @@ An example Arduino sketch (`.ino` file) related to the NodeMCU V3 Lolin board ca
 └── V1.0-Schematic/         - Files related to biniboard V1.0 schematic.
     └── biniboard_V1.0-Schematics.png - Schematic diagram for biniboard V1.0.
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
